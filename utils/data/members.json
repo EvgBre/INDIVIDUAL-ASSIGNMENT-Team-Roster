@@ -4,6 +4,7 @@
         "image":"https://static.wikia.nocookie.net/olympians/images/c/ca/Annabeth_Chase-Viria.jpg/revision/latest/scale-to-width-down/298?cb=20221019081610",
         "name":"Annabeth Chase",
         "role":"Book Worm Strategist",
+        "power":"Genius Intellect",
         "uid":""
     },
     "-NMWC8FIup9NGdkvmZjh":{
@@ -11,6 +12,7 @@
         "image":"https://static.wikia.nocookie.net/olympians/images/e/e7/Nico_di_Angelo.jpg/revision/latest/scale-to-width-down/298?cb=20221019080034",
         "name":"Nico di Angelo",
         "role":"Emo Softy",
+        "power":"Necromancy",
         "uid":""
     },
     "-NMWC8FK_Q5kjfJDhjU2":{
@@ -18,6 +20,7 @@
         "image":"https://static.wikia.nocookie.net/olympians/images/1/10/Percy_Jackson.jpg/revision/latest/scale-to-width-down/298?cb=20180319172727",
         "name":"Percy Jackson",
         "role":"Swagger Fish Boy",
+        "power":"Hydrokinesis",
         "uid":""
     },
     "-NMWC8FN10jO2LKtMcK4":{
@@ -25,6 +28,7 @@
         "image":"https://static.wikia.nocookie.net/olympians/images/9/9e/Thalia_Grace.jpg/revision/latest/scale-to-width-down/298?cb=20170220195049",
         "name":"Thalia Grace",
         "role":"Lightning Huntress",
+        "power":"Storm Generation",
         "uid":""
     },
     "-NMWC8FOxe893TUBQObQ":{
@@ -32,6 +36,7 @@
         "image":"https://static.wikia.nocookie.net/olympians/images/5/53/Leo_Valdez-Viria.jpg/revision/latest/scale-to-width-down/298?cb=20170223023557",
         "name":"Leo Valdez",
         "role":"Fire-blazing mechanic",
+        "power":"Pyrokinesis",
         "uid":""
     },
     "-NMWC8FQGgqMUEXhuADb":{
@@ -39,6 +44,7 @@
         "image":"https://static.wikia.nocookie.net/olympians/images/c/c1/Grover_Underwood.jpg/revision/latest/scale-to-width-down/298?cb=20170220200452",
         "name":"Grover Underwood",
         "role":"Comedic Super-satyr",
+        "power":"Woodland Magic",
         "uid":""
     }
 }

@@ -1,7 +1,7 @@
-import client from '../utils/client';
+import { clientCredentials } from '../utils/client';
 // API CALLS FOR BOOKS
 
-const endpoint = client.databaseURL;
+const endpoint = clientCredentials.databaseURL;
 
 const getMembers = (uid) => new Promise((resolve, reject) => {
   // eslint-disable-next-line no-template-curly-in-string
@@ -48,7 +48,7 @@ const getSingleMember = (firebaseKey) => new Promise((resolve, reject) => {
 });
 
 const createMember = (payload) => new Promise((resolve, reject) => {
-  fetch(`${endpoint}/books.json`, {
+  fetch(`${endpoint}/members.json`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
